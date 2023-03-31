@@ -14,13 +14,14 @@ body {
 }
 
 h1{
-    font-family: 'Montserrat', sans-serif;
-    font-size: 50px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 80px;
     font-weight: 500;
     position: relative;
     bottom: -30px;
     text-align: center;
     color: white;
+   
 }
 
 .appLogo{
