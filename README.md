@@ -25,6 +25,7 @@ Yo como usuaria quiero tomar nota para no depender de mi mala memoria y tener pr
 # Prototipos de Baja Fidelidad
 
 # Prototipos de Alta Fidelidad
+[![vista2.jpg](https://i.postimg.cc/VvL8kzP8/vista2.jpg)](https://postimg.cc/3466L5wS)
 
 
 # [Historia de usuaria 3] Debería poder ver las notas
@@ -34,6 +35,7 @@ Yo como usuaria quiero subrayar las notas o recordatorios que ya ocupe
 # Prototipos de Baja Fidelidad
 
 # Prototipos de Alta Fidelidad
+[![vista2.jpg](https://i.postimg.cc/VvL8kzP8/vista2.jpg)](https://postimg.cc/3466L5wS)
 
 # [Historia de usuaria 4] Debería poder editar las notas
 
@@ -42,6 +44,7 @@ Yo como usuaria quiero editar notas para poder modificar lo que escribí antes.
 # Prototipos de Baja Fidelidad
 
 # Prototipos de Alta Fidelidad
+[![vista2.jpg](https://i.postimg.cc/VvL8kzP8/vista2.jpg)](https://postimg.cc/3466L5wS)
 
 # [Historia de usuaria 5] Debería poder borrar notas 
 
@@ -50,3 +53,4 @@ Yo como usuaria quiero borrar una nota para no volver a verla.
 # Prototipos de Baja Fidelidad
 
 # Prototipos de Alta Fidelidad
+[![vista2.jpg](https://i.postimg.cc/VvL8kzP8/vista2.jpg)](https://postimg.cc/3466L5wS)
