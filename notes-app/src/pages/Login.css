@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    background-color: #1D1B1B;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+    position: relative;
+    bottom: -30px;
+    text-align: center;
+    color: white;
+}
+
+.appLogo{
+    width: 575px;
+    padding: 20px;
+    display: flex;
+    position: relative;
+    bottom: -55px;
+    align-items: center;
+    justify-content: center;
+}
+
+.signIn {
+    padding: 15px;
+    border: none;
+    background-color: #2f5499;
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    left: 250px;
+    top: 150px;
+    gap: 1rem;
+    transition: all 0.5s;
+    cursor: pointer;
+
+}
+
+.signIn:hover {
+    background-color: #080b9e;
+}
